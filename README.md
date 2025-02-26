@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=aho4ahoaho&count_private=true&show_icons=true&theme=radical"/>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aho4ahoaho&theme=radical&layout=compact"/>
